@@ -1,7 +1,9 @@
-# Configurações do VS Code
+# VS Code (ignora configs locais)
 .vscode/
 
-# Arquivos de sistema do Windows
+# Windows system files
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+$RECYCLE.BIN/
+*.lnk
